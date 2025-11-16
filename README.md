@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo Flávio Almeida. Estudante de Sistemas de Informação, no Instituto Federal de Sergipe - IFS. Sou Desenvolvedor Front-end (Júnior) na InfoEdu Educação. Buscando sempre evolução para me desenvolver cada vez mais profissionalmente.</h2>
+<h2 align="left">Olá, me chamo Flávio Almeida. Estudante de Sistemas de Informação, no Instituto Federal de Sergipe - IFS. Sou Desenvolvedor na InfoEdu Educação. Buscando sempre evolução para me desenvolver cada vez mais profissionalmente.</h2>
 
 ###
 
