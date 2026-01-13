@@ -1,44 +1,58 @@
-<h2 align="left">Olá, me chamo Flávio Almeida. Estudante de Sistemas de Informação, no Instituto Federal de Sergipe - IFS. Sou Desenvolvedor na InfoEdu Educação. Buscando sempre evolução para me desenvolver cada vez mais profissionalmente.</h2>
+# Olá, sou Flávio Almeida! 👋
 
-###
+**Desenvolvedor Fullstack | Java & Spring Boot | Entusiasta de Golang**
 
-<img align="right" height="150" src="https://e1.pxfuel.com/desktop-wallpaper/909/106/desktop-wallpaper-one-piece-icons-%E2%9E%BA-roronoa-zoro-zoro-pfp.jpg"  />
+Atualmente sou estudante de **Sistemas de Informação** no IFS (Campus Lagarto) e atuo como **Desenvolvedor** na InfoEduc Company. Meu foco principal é o desenvolvimento de software robusto ("High-code"), arquitetura de sistemas e boas práticas de engenharia.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+### 🚀 Sobre Mim
+
+- 🎓 Graduando em **Sistemas de Informação** pelo Instituto Federal de Sergipe.
+- 💼 Desenvolvedor na **InfoEduc Company**, trabalhando com manutenção e criação de sistemas.
+- ☕ Especialista em **Java (Spring Boot Ecosystem)** e desenvolvimento web moderno.
+- 🐹 Estudando **Golang** para microsserviços e performance.
+- 🎯 Focado em: **Clean Code**, **Arquitetura de Software** e **Testes Unitários**.
+
+---
+
+### 🛠️ Tech Stack
+
+**Back-end & Linguagens**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+**Front-end**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Infraestrutura & Ferramentas**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/flavio-ph">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavio-ph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ph&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 📫 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/flávio-almeida-804827361/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:flaviophalmeida@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-###
-
-###
