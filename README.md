@@ -1,48 +1,57 @@
 # Olá, sou Flávio Almeida! 👋
 
-**Desenvolvedor Fullstack | Java & Spring Boot | Entusiasta de Golang**
+**Desenvolvedor | Java & Spring Boot | React**
 
-Atualmente sou estudante de **Sistemas de Informação** no IFS (Campus Lagarto) e atuo como **Desenvolvedor** na InfoEduc Company. Meu foco principal é o desenvolvimento de software robusto ("High-code"), arquitetura de sistemas e boas práticas de engenharia.
+Atualmente sou estudante de **Sistemas de Informação** no IFS (Campus Lagarto) e atuo como **Desenvolvedor** na InfoEduc Company.
+
+Meu foco principal é a engenharia de software robusta ("High-code") e arquitetura de sistemas, mas também integro soluções Low-code para entregar valor com agilidade.
 
 ---
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduando em **Sistemas de Informação** pelo Instituto Federal de Sergipe.
-- 💼 Desenvolvedor na **InfoEduc Company**, trabalhando com manutenção e criação de sistemas.
-- ☕ Especialista em **Java (Spring Boot Ecosystem)** e desenvolvimento web moderno.
-- 🐹 Estudando **Golang** para microsserviços e performance.
-- 🎯 Focado em: **Clean Code**, **Arquitetura de Software** e **Testes Unitários**.
+Sou um desenvolvedor focado na criação de soluções digitais funcionais e escaláveis. Minha experiência cobre desde a concepção de arquitetura até a implementação de microsserviços e front-ends modernos.
+
+- 🎓 **Formação:** Graduando em Sistemas de Informação (IFS).
+- 💼 **Atuação:** Desenvolvedor na InfoEduc Company (Manutenção e criação de sistemas).
+- ☕ **Especialidade:** Ecossistema **Java (Spring Boot)** e **React**.
+- 🐹 **Interesses Atuais:** Desenvolvendo microsserviços de alta performance com **Golang**.
+- 📱 **Mobile:** Experiência com **React Native**.
+
+---
+
+### 💻 Projetos em Destaque
+
+Alguns dos projetos que desenvolvi aplicando arquitetura limpa e boas práticas:
+
+| Projeto | Stack Principal | Descrição |
+| :--- | :--- | :--- |
+| **FinanQuest** | Java, Spring, React Native | Sistema financeiro completo com app mobile e backend robusto. |
+| **EducChain** | **Golang**, MySQL, React | Aplicação explorando a performance do Go no backend. |
+| **MilhasPro** | Java, Spring, PostgreSQL | Gestão de milhas com foco em integridade de dados. |
+| **Payment Gateway** | Java, Spring, MySQL | Implementação de gateway de pagamentos fullstack. |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Back-end & Linguagens**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+**Back-end & Banco de Dados**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Front-end**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Front-end & Mobile**
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Infraestrutura & Ferramentas**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/flavio-ph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavio-ph&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ph&layout=compact&theme=dracula"/>
-  </a>
-</div>
+**DevOps & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
