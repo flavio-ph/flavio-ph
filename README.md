@@ -1,176 +1,87 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Flávio%20Dev&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Desenvolvedor%20Full%20Stack%20%7C%20Java%20%26%20Web&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:2563EB,100:38BDF8"
-  />
-</p>
+<h1 align="center">Flávio Almeida</h1>
+<h3 align="center">Desenvolvedor | React | Java | Docker</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Construindo+solu%C3%A7%C3%B5es+web+com+foco+em+arquitetura%2C+clareza+e+impacto+real."
-    alt="Texto animado"
-  />
+  <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/flavio-ph" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://flaviodev.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:flaviodev@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flavio-ph&label=Profile%20Views&color=38BDF8" />
-  <img src="https://img.shields.io/github/followers/flavio-ph?label=Followers&color=2563EB" />
-  <img src="https://img.shields.io/github/stars/flavio-ph?label=Stars&color=2563EB" />
-</p>
+## 👋 Hey! Eu sou o Flávio!
 
-<hr/>
+Desenvolvedor apaixonado por arquitetura limpa e construção de aplicações modernas.
 
-<h2>🧠 Sobre mim</h2>
+Atuo com **React e Tyoescript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
 
-<ul>
-  <li><b>Atuação:</b> Desenvolvedor Full Stack com foco em <b>Java (Spring Boot)</b> e aplicações web.</li>
-  <li><b>Formação:</b> Bacharelado em Sistemas de Informação — Instituto Federal de Sergipe (IFS).</li>
-  <li><b>Experiência:</b> Atuação profissional com desenvolvimento <b>Front-End e Back-End</b>, incluindo plataformas No-Code.</li>
-  <li><b>Interesses:</b> Arquitetura de software, APIs REST, autenticação, modelagem de dados e boas práticas.</li>
-  <li><b>Perfil:</b> Curioso, analítico e orientado a aprendizado contínuo.</li>
-  <li><b>Objetivo:</b> Evoluir como desenvolvedor Java, construindo soluções robustas e bem estruturadas.</li>
-</ul>
+Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
 
-<pre>
-const flavio = {
-  cargo: "Desenvolvedor Full Stack",
-  formacao: "Sistemas de Informação - IFS",
-  foco: [
-    "Java e Spring Boot",
-    "APIs REST e autenticação (JWT)",
-    "Modelagem de dados e SQL",
-    "Integração Front-End e Back-End"
-  ],
-  objetivo:
-    "Desenvolver software de qualidade, com base sólida em arquitetura, clareza de código e impacto real."
-};
-</pre>
+---
 
-<hr/>
+## 📌 Sobre Mim
 
-<h2>📊 Visão geral do GitHub</h2>
+- 🎓 Bacharelado em Sistemas de Informação (IFS)
+- 💼 Desenvolvedor | InfoEduc
+- 🧠 Foco atual: React + Java + APIs REST + Docker
+- 🚀 Estudando: Arquitetura de Software e Microsserviços
+- 🐳 Experiência com Docker e versionamento com Git
+- 🔁 Vivência com Scrum e Kanban
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=flavio-ph&show_icons=true&hide_border=true&theme=github_dark"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-ph&layout=compact&hide_border=true&theme=github_dark"
-  />
-</p>
+---
 
-<p align="center">
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=flavio-ph&theme=github-dark&hide_border=true"
-  />
-</p>
+## ⚡ Fatos Rápidos
 
-<hr/>
+| Informação        | Detalhe |
+|-------------------|----------|
+| 📍 Localização     | Sergipe, Brasil |
+| 💻 Stack Principal | React + Java |
+| 🔥 Diferencial     | No-Code + n8n |
+| 📦 Infra           | Docker |
+| 📈 Metodologias    | Scrum & Kanban |
+| 🎯 Objetivo        | Evoluir como Software Engineer |
 
-<h2>🧩 Stack tecnológica</h2>
+---
 
-<div align="center">
-  <h4>💻 Linguagens</h4>
-  <img src="https://skillicons.dev/icons?i=java,js,ts" />
+## 🚀 Projetos em Destaque
 
-  <h4>🧱 Backend</h4>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+### 💰 Sistema de Gestão de Pontos
+Aplicação Full Stack para controle de pontos de milhas
 
-  <h4>🎨 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+**Stack:** Java, Spring Boot, React, PostgreSQL
 
-  <h4>🗄️ Banco de dados</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+[🔗 Ver Repositório](#)
 
-  <h4>⚙️ Ferramentas</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
-</div>
+---
 
-<hr/>
+### 🛒 FinanQuest
+Sistema financeiro gamificado
 
-<h2>📌 Áreas de atuação</h2>
+**Stack:** Java, Spring Boot, SQL
 
-<table>
-  <tr>
-    <th align="left">Área</th>
-    <th align="left">Descrição</th>
-  </tr>
-  <tr>
-    <td><b>Backend Java</b></td>
-    <td>Criação de APIs REST com Spring Boot, autenticação, regras de negócio e persistência</td>
-  </tr>
-  <tr>
-    <td><b>Frontend Web</b></td>
-    <td>Interfaces funcionais, responsivas e integradas ao backend</td>
-  </tr>
-  <tr>
-    <td><b>Banco de Dados</b></td>
-    <td>Modelagem relacional, constraints, chaves e consultas SQL</td>
-  </tr>
-  <tr>
-    <td><b>Arquitetura</b></td>
-    <td>Separação de camadas, organização de projetos e boas práticas</td>
-  </tr>
-</table>
+[🔗 Ver Repositório](#)
 
-<hr/>
+---
 
-<h2>📈 Atividade</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=flavio-ph&bg_color=0B1220&color=C9D1D9&line=38BDF8&point=2563EB&area=true&hide_border=true"
-  />
-</p>
-
-<hr/>
-
-<h2>🌱 Em evolução constante</h2>
+## 🛠️ Ferramentas & Tecnologias
 
 <p>
-Atualmente aprofundando conhecimentos em:
+<img src="https://skillicons.dev/icons?i=java,react,js,ts,python,docker,postgres,git" />
 </p>
 
-<ul>
-  <li>Java avançado e Spring Boot</li>
-  <li>Arquitetura de software</li>
-  <li>Segurança e autenticação</li>
-  <li>Integração Front-End / Back-End</li>
-</ul>
+---
 
-<hr/>
+## 📈 O que estou construindo agora
 
-<h2>💬 Vamos nos conectar</h2>
+- 🔄 Aprofundando conhecimentos em arquitetura de sistemas
+- 🚀 Evoluindo aplicações com Spring Boot
+- 📦 Trabalhando com Docker em ambientes de desenvolvimento
+- 🤖 Criando automações com n8n
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/flavio-ph" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://flaviodev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+---
 
-<p align="center">
-  🚀 Aberto a oportunidades como <b>Desenvolvedor Java</b> ou <b>Full Stack</b>
-</p>
+## 🌐 Conecte-se comigo
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Evoluir%20com%20Consistência&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:2563EB,100:38BDF8"
-  />
+<p>
+<a href="https://www.linkedin.com/in/flávio-almeida-804827361/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
