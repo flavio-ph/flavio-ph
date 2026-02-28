@@ -9,7 +9,7 @@
 
 ## 👋 Hey! Eu sou o Flávio!
 
-Desenvolvedor Full Stack apaixonado por arquitetura limpa e construção de aplicações modernas.
+Desenvolvedor apaixonado por arquitetura limpa e construção de aplicações modernas.
 
 Atuo com **React e Tyoescript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
 
