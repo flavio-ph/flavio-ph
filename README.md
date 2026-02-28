@@ -1,5 +1,5 @@
 <h1 align="center">Flávio Almeida</h1>
-<h3 align="center">Full Stack Developer | React | Java | Python | Docker</h3>
+<h3 align="center">Desenvolvedor | React | Java | Docker</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue" alt="Profile views" />
@@ -11,7 +11,7 @@
 
 Desenvolvedor Full Stack apaixonado por arquitetura limpa e construção de aplicações modernas.
 
-Atuo com **React no Front-End** e **Java (Spring Boot) e Python no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
+Atuo com **React e Tyoescript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
 
 Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
 
@@ -20,8 +20,8 @@ Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
 ## 📌 Sobre Mim
 
 - 🎓 Bacharelado em Sistemas de Informação (IFS)
-- 💼 Software Developer | Team Leader na InfoEduc
-- 🧠 Foco atual: React + Java + APIs REST
+- 💼 Desenvolvedor | InfoEduc
+- 🧠 Foco atual: React + Java + APIs REST + Docker
 - 🚀 Estudando: Arquitetura de Software e Microsserviços
 - 🐳 Experiência com Docker e versionamento com Git
 - 🔁 Vivência com Scrum e Kanban
@@ -43,8 +43,8 @@ Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
 
 ## 🚀 Projetos em Destaque
 
-### 💰 Sistema de Gestão Financeira com Gamificação
-Aplicação Full Stack inspirada em mecânicas de RPG (XP, níveis e conquistas).
+### 💰 Sistema de Gestão de Pontos
+Aplicação Full Stack para controle de pontos de milhas
 
 **Stack:** Java, Spring Boot, React, PostgreSQL
 
@@ -52,8 +52,8 @@ Aplicação Full Stack inspirada em mecânicas de RPG (XP, níveis e conquistas)
 
 ---
 
-### 🛒 Sistema de Supermercado (Acadêmico)
-Projeto focado em modelagem de dados, regras de negócio e arquitetura em camadas.
+### 🛒 FinanQuest
+Sistema financeiro gamificado
 
 **Stack:** Java, Spring Boot, SQL
 
@@ -81,7 +81,7 @@ Projeto focado em modelagem de dados, regras de negócio e arquitetura em camada
 ## 🌐 Conecte-se comigo
 
 <p>
-<a href="https://www.linkedin.com/in/SEULINK" target="_blank">
+<a href="https://www.linkedin.com/in/flávio-almeida-804827361/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
