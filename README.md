@@ -1,5 +1,5 @@
 <h1 align="center">Flávio Almeida</h1>
-<h3 align="center">Desenvolvedor | React | Java | Docker</h3>
+<h3 align="center">Software Engineer | Arquitetura | Backend | Infraestrutura</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=flavio-ph&color=blue" alt="Profile views" />
@@ -7,78 +7,67 @@
 
 ---
 
-## 👋 Hey! Eu sou o Flávio!
+## Sobre Mim
 
-Desenvolvedor apaixonado por arquitetura limpa e construção de aplicações modernas.
+Engenheiro de Software com foco na construção de aplicações escaláveis, arquitetura limpa e resiliência de sistemas. 
 
-Atuo com **React e TypeScript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
-
-Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
+Atuo no planejamento e execução de projetos ponta a ponta, unindo desenvolvimento (Java/Spring Boot, .NET, React) à visão de infraestrutura e operações. Busco sempre otimizar a entrega de valor tecnológico, desde a definição de objetivos estratégicos e documentação técnica, até a automação de processos de deploy e observabilidade.
 
 ---
 
-## 📌 Sobre Mim
+## Foco Técnico
 
-- 🎓 Bacharelado em Sistemas de Informação (IFS)
-- 💼 Desenvolvedor | InfoEduc
-- 🧠 Foco atual: React + Java + APIs REST + Docker
-- 🚀 Estudando: Arquitetura de Software e Microsserviços
-- 🐳 Experiência com Docker e versionamento com Git
-- 🔁 Vivência com Scrum e Kanban
+- Arquitetura de Software e Microsserviços
+- Cultura DevOps e SRE (Observabilidade Inteligente e Auto-remediação)
+- CI/CD e automação de fluxos de entrega contínua
+- Soluções No-Code (Bubble.io) integradas via n8n para orquestração rápida
 
 ---
 
-## ⚡ Fatos Rápidos
+## Stack de Tecnologias
 
-| Informação        | Detalhe |
-|-------------------|----------|
-| 📍 Localização     | Sergipe, Brasil |
-| 💻 Stack Principal | React + Java |
-| 🔥 Diferencial     | No-Code + n8n |
-| 📦 Infra           | Docker |
-| 📈 Metodologias    | Scrum & Kanban |
-| 🎯 Objetivo        | Evoluir como Software Engineer |
+### Backend & Arquitetura
+Java | Spring Boot | .NET | PostgreSQL
+
+### Frontend
+React | TypeScript
+
+### Infraestrutura & Operações
+Docker | CI/CD | AWS (Networking/VPC) | Git
+
+### Automação
+n8n | Bubble.io
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 💰 Sistema de Gestão de Pontos
-Aplicação Full Stack para controle de pontos de milhas
+### Plataforma de Observabilidade Inteligente
+Arquitetura orientada a microsserviços com foco em resiliência e auto-remediação em ambientes distribuídos.
+**Stack:** Infraestrutura, Monitoramento, Arquitetura Distribuída
+[Ver Repositório](#)
 
+### Padronização e Pipelines de CI/CD
+Desenvolvimento de guias de setup, documentação de escopo e automação de fluxos de entrega para projetos em equipe.
+**Stack:** Docker, CI/CD, Git
+[Ver Repositório](#)
+
+### Sistema de Gestão de Pontos
+Aplicação Full Stack para controle de pontos de milhas.
 **Stack:** Java, Spring Boot, React, PostgreSQL
-
-[🔗 Ver Repositório](https://github.com/flavio-ph/desenvolvimento-webI-milhas)
-
----
-
-### 🛒 FinanQuest
-Sistema financeiro gamificado
-
-**Stack:** Java, Spring Boot, SQL
-
-[🔗 Ver Repositório](#)
+[Ver Repositório](https://github.com/flavio-ph/desenvolvimento-webI-milhas)
 
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## O que estou construindo agora
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,react,js,ts,python,docker,postgres,git" />
-</p>
-
----
-
-## 📈 O que estou construindo agora
-
-- 🔄 Aprofundando conhecimentos em arquitetura de sistemas
-- 🚀 Evoluindo aplicações com Spring Boot
-- 📦 Trabalhando com Docker em ambientes de desenvolvimento
-- 🤖 Criando automações com n8n
+- Estruturando arquiteturas distribuídas e explorando roteamento avançado na nuvem.
+- Criando documentações técnicas e guias de setup para padronização de novos projetos em equipe.
+- Definindo estratégias de escalabilidade e alocação eficiente para ciclos de desenvolvimento.
 
 ---
 
-## 🌐 Conecte-se comigo
+## Contato
 
 <p>
 <a href="https://www.linkedin.com/in/flávio-almeida-804827361/" target="_blank">
