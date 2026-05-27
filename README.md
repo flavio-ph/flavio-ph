@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor | React | Java | Docker</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSERNAME&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=flavio-ph&color=blue" alt="Profile views" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 Desenvolvedor apaixonado por arquitetura limpa e construção de aplicações modernas.
 
-Atuo com **React e Tyoescript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
+Atuo com **React e TypeScript no Front-End** e **Java (Spring Boot) no Back-End**, além de trabalhar com automações usando **n8n** e soluções **No-Code com Bubble.io**.
 
 Sempre buscando evoluir em arquitetura, boas práticas e sistemas escaláveis.
 
@@ -48,7 +48,7 @@ Aplicação Full Stack para controle de pontos de milhas
 
 **Stack:** Java, Spring Boot, React, PostgreSQL
 
-[🔗 Ver Repositório](#)
+[🔗 Ver Repositório](https://github.com/flavio-ph/desenvolvimento-webI-milhas)
 
 ---
 
