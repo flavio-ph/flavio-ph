@@ -60,6 +60,7 @@ Sou apaixonado por tecnologia, arquitetura de software, cloud computing e lidera
 
 - Liderança técnica da equipe de desenvolvimento
 - Definição de padrões de arquitetura e boas práticas
+- Desenvolvimento no code com Bubble.io
 - Desenvolvimento de aplicações backend utilizando Java e Spring Boot
 - Criação e evolução de APIs REST
 - Revisão de código e mentoria técnica
@@ -74,6 +75,7 @@ Sou apaixonado por tecnologia, arquitetura de software, cloud computing e lidera
 *Set 2024 - Abr 2025*
 
 - Desenvolvimento de sistemas web Full Stack
+- Desenvolvimento no code com Bubble.io
 - Backend com Java e Spring Boot
 - Frontend com React, JavaScript e TypeScript
 - Modelagem e manutenção de bancos PostgreSQL e MySQL
